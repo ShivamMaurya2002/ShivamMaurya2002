@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shivammaurya2002/shivammaurya2002/blob/main/assets/Github.png?raw=true" alt="Shivam Maurya GitHub Banner" />
+  <img src="https://github.com/shivammaurya2002/shivammaurya2002/blob/main/assets/Github.png?raw=true" alt="Shivam Maurya GitHub Banner" height="200" />
 </p>
 
 # ✨ Welcome to My GitHub Profile
