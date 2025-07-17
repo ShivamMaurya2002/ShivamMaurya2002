@@ -64,10 +64,11 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShivamMaurya2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShivamMaurya2002&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMaurya2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamMaurya2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ShivamMaurya2002&theme=radical&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMaurya2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 ---
 
 ## 🏆 GitHub Trophies:
