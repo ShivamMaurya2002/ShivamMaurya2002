@@ -1,11 +1,19 @@
+![Shivam Maurya Banner](https://github.com/shivammaurya2002/shivammaurya2002/assets/<img width="1024" height="1024" alt="Github" src="https://github.com/user-attachments/assets/413d7710-5495-428a-a664-baaa328fe623" />
+)
+
+# ✨ Welcome to My GitHub Profile
+
+---
+
 # 💫 About Me:
-👋 Hello! I'm **Shivam Maurya**, a passionate Frontend Developer dedicated to creating responsive and interactive web applications.<br><br>
-🔭 I’m currently working on building modern web apps using **HTML, CSS, JavaScript, and React**.<br>
-👯 I’m open to collaborating on exciting **frontend projects, open-source contributions**, and **UI/UX enhancements**.<br>
-🤝 I’m seeking support in **backend integration** and enhancing **performance optimization** techniques.<br>
-🌱 Currently learning **advanced React.js**, **API integration**, and mastering **version control with Git**.<br>
-💬 Ask me anything about **frontend development**, **JavaScript concepts**, or **portfolio building**.<br>
-⚡ Fun fact: I enjoy playing **chess** and **Free Fire** when I’m not coding!
+👋 Hello! I'm **Shivam Maurya**, a passionate and creative **Frontend Developer** who loves building beautiful, performant, and user-friendly web applications.
+
+- 🔭 Currently working on **responsive web apps** using **HTML, CSS, JavaScript and Bootstrap**
+- 👯 Open to **collaborate** on exciting frontend projects, open-source, and UI/UX ideas
+- 🌱 Learning **Advanced React.js**, **API Integration**, and **Version Control (Git)**
+- 🤝 Looking for support in **backend integration** and **web performance optimization**
+- 💬 Ask me about **frontend development**, **JavaScript concepts**, **portfolio building**
+- ⚡ Fun Fact: I love playing **Chess** when I’m not coding!
 
 ---
 
@@ -57,28 +65,68 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShivamMaurya2002&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShivamMaurya2002&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMaurya2002&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivammaurya2002&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shivammaurya2002&theme=great-gatsby&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammaurya2002&theme=great-gatsby&hide_border=false&layout=compact" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=shivammaurya2002&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivammaurya2002&theme=algolia&no-frame=false&no-bg=false&margin-w=4" />
+</p>
 
 ---
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🚀 Featured Projects:
+
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| ![Recipe Finder](https://img.shields.io/badge/Recipe%20Finder-%23FF5733?style=for-the-badge) | A recipe app with smart search, filters, and cuisines | [Live](https://shivammaurya2002.github.io/recipe-finder/) |
+| ![E-commerce Website](https://img.shields.io/badge/Ecommerce-%234CAF50.svg?style=for-the-badge) | Shopping website with cart and category support | [Live](https://shivammaurya2002.github.io/ecommerce/) |
+| ![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge) | My professional portfolio with animations & dark mode | [Live](https://shivammaurya2002.github.io/portfolio/) |
+| ![Landing Page](https://img.shields.io/badge/Landing--Page-%2300C4CC.svg?style=for-the-badge) | Service-focused responsive landing page | [Live](https://shivammaurya2002.github.io/landing-page/) |
+| ![Weather App](https://img.shields.io/badge/Weather--App-%2361DAFB.svg?style=for-the-badge) | Real-time 5-day forecast weather app | [Live](https://shivammaurya2002.github.io/weather-app/) |
+| ![Focus App](https://img.shields.io/badge/Focus--on--Today-%23E4405F?style=for-the-badge) | Productivity app for managing daily focus tasks | [Live](https://shivammaurya2002.github.io/focus-on-today/) |
+| ![Hamburger Menu](https://img.shields.io/badge/Hamburger--Menu-%23FFB300.svg?style=for-the-badge) | Stylish hamburger menu for foodies app | [Live](https://shivammaurya2002.github.io/foodies/) |
+| ![Calculator App](https://img.shields.io/badge/Calculator-%234B0082.svg?style=for-the-badge) | Basic calculator built using JavaScript | [Live](https://shivammaurya2002.github.io/calculator/) |
 
 ---
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=shivammaurya2002&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+## 🎓 Certifications:
+
+- ![FreeCodeCamp](https://img.shields.io/badge/JavaScript%20DSA-%2300C7B7.svg?style=for-the-badge&logo=freeCodeCamp) by FreeCodeCamp  
+- ![CodSoft](https://img.shields.io/badge/Web%20Development-%230072C6.svg?style=for-the-badge) by CodSoft  
+- ![Python](https://img.shields.io/badge/Basics%20of%20Python-%233776AB.svg?style=for-the-badge)  
+- ![ML](https://img.shields.io/badge/Intro%20to%20Machine%20Learning-%23F7931E.svg?style=for-the-badge)  
+- ![Presentation Skills](https://img.shields.io/badge/Presentation%20Skills-%23f4e542.svg?style=for-the-badge)  
+- ![Infosys](https://img.shields.io/badge/Business%20Communication-%230073C6.svg?style=for-the-badge&logo=infosys)  
+- ![Research](https://img.shields.io/badge/Research%20Paper%20(IJR)-%232F80ED.svg?style=for-the-badge&logo=read-the-docs)  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=shivammaurya2002&icon=0&color=0)](https://visitcount.itsvg.in)
+## ✍️ Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🔝 Top Contributed Repo:
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=shivammaurya2002&limit=5&theme=gotham&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=shivammaurya2002&icon=0&color=0" />
+  </a>
+</p>
+
+<!-- Profile crafted with ❤️ by Shivam Maurya | Template via GPRM (https://gprm.itsvg.in) -->
+
