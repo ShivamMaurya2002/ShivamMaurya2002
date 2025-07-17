@@ -1,4 +1,4 @@
-![Shivam Maurya Banner](https://github.com/shivammaurya2002/shivammaurya2002/assets/your-banner-image-path)
+![Shivam Maurya Banner](https://github.com/shivammaurya2002/shivammaurya2002/assets/Github.png)
 
 # ✨ Welcome to My GitHub Profile
 ---
@@ -69,6 +69,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=ShivamMaurya2002&theme=radical&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMaurya2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
+
 ---
 
 ## 🏆 GitHub Trophies:
