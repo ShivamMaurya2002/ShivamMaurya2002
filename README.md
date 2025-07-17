@@ -1,22 +1,27 @@
 <p align="center">
   <img src="https://github.com/shivammaurya2002/shivammaurya2002/blob/main/assets/Github.png?raw=true" 
        alt="Shivam Maurya GitHub Banner" 
-       style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px;" />
+       style="width: 90%; height: 350px; object-fit: cover; border-radius: 8px;" />
 </p>
 
-<h1 align="center">✨ Welcome to My GitHub Profile</h1>
+<h1 align="center" >✨ Welcome to My GitHub Profile</h1>
 
 ---
-
 # 💫 About Me:
-👋 Hello! I'm **Shivam Maurya**, a passionate and creative **Frontend Developer** who loves building beautiful, performant, and user-friendly web applications.
 
-- 🔭 Currently working on **responsive web apps** using **HTML, CSS, JavaScript and Bootstrap**
-- 👯 Open to **collaborate** on exciting frontend projects, open-source, and UI/UX ideas
-- 🌱 Learning **Advanced React.js**, **API Integration**, and **Version Control (Git)**
-- 🤝 Looking for support in **backend integration** and **web performance optimization**
-- 💬 Ask me about **frontend development**, **JavaScript concepts**, **portfolio building**
-- ⚡ Fun Fact: I love playing **Chess** when I’m not coding!
+<p align="center">
+👋 Hello! I'm <b><span style="color:#00C7B7;">Shivam Maurya</span></b>, a passionate and creative <b><span style="color:#FF5722;">Frontend Developer</span></b> who loves building beautiful, performant, and user-friendly web applications.
+</p>
+
+<ul>
+  <li>🔭 Currently working on <b><span style="color:#FFC107;">responsive web apps</span></b> using <b><span style="color:#03A9F4;">HTML</span></b>, <b><span style="color:#2196F3;">CSS</span></b>, <b><span style="color:#FFEB3B;">JavaScript</span></b> and <b><span style="color:#7952B3;">Bootstrap</span></b></li>
+  <li>👯 Open to <b><span style="color:#9C27B0;">collaborate</span></b> on exciting <span style="color:#00BCD4;">frontend projects</span>, <span style="color:#4CAF50;">open-source</span>, and <span style="color:#E91E63;">UI/UX ideas</span></li>
+  <li>🌱 Learning <b><span style="color:#00C853;">Advanced React.js</span></b>, <span style="color:#F44336;">API Integration</span>, and <span style="color:#607D8B;">Version Control (Git)</span></li>
+  <li>🤝 Looking for support in <span style="color:#E91E63;">backend integration</span> and <span style="color:#4CAF50;">web performance optimization</span></li>
+  <li>💬 Ask me about <span style="color:#03A9F4;">frontend development</span>, <span style="color:#FF9800;">JavaScript concepts</span>, and <span style="color:#9C27B0;">portfolio building</span></li>
+  <li>⚡ Fun Fact: I love playing <b><span style="color:#673AB7;">Chess</span></b> when I’m not coding!</li>
+</ul>
+
 
 ---
 
