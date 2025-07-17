@@ -1,26 +1,70 @@
 <p align="center">
   <img src="https://github.com/shivammaurya2002/shivammaurya2002/blob/main/assets/Github.png?raw=true" 
        alt="Shivam Maurya GitHub Banner" 
-       style="width: 90%; height: 350px; object-fit: cover; border-radius: 8px;" />
+       style="width: 100%; height: 350px; object-fit: cover; border-radius: 8px;" />
 </p>
-
-<h1 align="center" >✨ Welcome to My GitHub Profile</h1>
 
 ---
-# 💫 About Me:
+
+<h1 align="center"> 💫 About Me </h1>
 
 <p align="center">
-👋 Hello! I'm <b><span style="color:#00C7B7;">Shivam Maurya</span></b>, a passionate and creative <b><span style="color:#FF5722;">Frontend Developer</span></b> who loves building beautiful, performant, and user-friendly web applications.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=00C7B7&center=true&vCenter=true&width=1200&height=70&lines=Welcome+to+my+GitHub+Profile!;I+am+Shivam+Maurya+%F0%9F%91%8B;Frontend+Developer;I+build+Interactive,+Animated,+Responsive+Websites;Skilled+in+HTML,+CSS,+JavaScript,+Bootstrap;Experienced+with+API+Integration+%F0%9F%94%8E;Lifelong+Learner+%F0%9F%93%9A+and+Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<ul>
-  <li>🔭 Currently working on <b><span style="color:#FFC107;">responsive web apps</span></b> using <b><span style="color:#03A9F4;">HTML</span></b>, <b><span style="color:#2196F3;">CSS</span></b>, <b><span style="color:#FFEB3B;">JavaScript</span></b> and <b><span style="color:#7952B3;">Bootstrap</span></b></li>
-  <li>👯 Open to <b><span style="color:#9C27B0;">collaborate</span></b> on exciting <span style="color:#00BCD4;">frontend projects</span>, <span style="color:#4CAF50;">open-source</span>, and <span style="color:#E91E63;">UI/UX ideas</span></li>
-  <li>🌱 Learning <b><span style="color:#00C853;">Advanced React.js</span></b>, <span style="color:#F44336;">API Integration</span>, and <span style="color:#607D8B;">Version Control (Git)</span></li>
-  <li>🤝 Looking for support in <span style="color:#E91E63;">backend integration</span> and <span style="color:#4CAF50;">web performance optimization</span></li>
-  <li>💬 Ask me about <span style="color:#03A9F4;">frontend development</span>, <span style="color:#FF9800;">JavaScript concepts</span>, and <span style="color:#9C27B0;">portfolio building</span></li>
-  <li>⚡ Fun Fact: I love playing <b><span style="color:#673AB7;">Chess</span></b> when I’m not coding!</li>
-</ul>
+---
+
+## 🚀 What I’m Doing
+
+<table>
+  <tr>
+    <td>
+
+🔭 **Currently Working On:**&nbsp;&nbsp;➡️ **Responsive Web Applications** using:
+&nbsp;![HTML](https://img.shields.io/badge/HTML-03A9F4?style=flat-square&logo=html5&logoColor=white)
+&nbsp;![CSS](https://img.shields.io/badge/CSS-2196F3?style=flat-square&logo=css3&logoColor=white)
+&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=flat-square&logo=javascript&logoColor=black)
+&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+&nbsp;![API Integration](https://img.shields.io/badge/API%20Integration-F44336?style=flat-square&logo=postman)
+&nbsp;![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=flat-square&logo=github&logoColor=white)
+
+👯 **Open to Collaborate On:**
+&nbsp;&nbsp;![Frontend Projects](https://img.shields.io/badge/Frontend%20Projects-00BCD4?style=flat-square)
+&nbsp;&nbsp;![Open Source](https://img.shields.io/badge/Open%20Source-4CAF50?style=flat-square)
+&nbsp;&nbsp;![UI/UX Ideas](https://img.shields.io/badge/UI%2FUX%20Ideas-E91E63?style=flat-square)
+&nbsp;&nbsp;![Creative Websites](https://img.shields.io/badge/Creative%20Websites-9C27B0?style=flat-square)
+
+🌱 **Currently Learning:**
+&nbsp;&nbsp;![React.js](https://img.shields.io/badge/React.js-00C853?style=flat-square&logo=react&logoColor=white)
+&nbsp;&nbsp;![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+🤝 **Looking For Help In:**
+&nbsp;&nbsp;![Backend](https://img.shields.io/badge/Backend%20Integration-E91E63?style=flat-square)
+&nbsp;&nbsp;![Performance](https://img.shields.io/badge/Web%20Performance%20Optimization-4CAF50?style=flat-square)
+&nbsp;&nbsp;![Full Stack Collaboration](https://img.shields.io/badge/Full%20Stack%20Projects-FFC107?style=flat-square)
+
+💬 **Ask Me About:**
+&nbsp;&nbsp;![Frontend](https://img.shields.io/badge/Frontend%20Development-03A9F4?style=flat-square)
+&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript%20Concepts-FF9800?style=flat-square)
+&nbsp;&nbsp;![Portfolio](https://img.shields.io/badge/Portfolio%20Building-9C27B0?style=flat-square)
+&nbsp;&nbsp;![UI/UX Design](https://img.shields.io/badge/UI/UX%20Design-F06292?style=flat-square)
+
+🎓 **Exploring Fundamentals Of:**
+&nbsp;&nbsp;![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+&nbsp;![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+&nbsp;![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square&logo=openai&logoColor=white)
+&nbsp;![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+🎯 **Fun Fact:**
+&nbsp;&nbsp;![Chess](https://img.shields.io/badge/♟️%20I%20love%20playing%20Chess%20when%20I’m%20not%20coding-673AB7?style=flat-square&logo=Chess&logoColor=white) &nbsp;&nbsp;![Creative Explorer](https://img.shields.io/badge/✨%20Exploring%20Creative%20%26%20Productive%20Ideas%20Daily-FF4081?style=flat-square&logo=target&logoColor=white)
+
+  </td>
+  </tr>
+</table>
+
 
 
 ---
