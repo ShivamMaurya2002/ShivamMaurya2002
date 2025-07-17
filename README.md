@@ -1,5 +1,4 @@
-![Shivam Maurya Banner](https://github.com/shivammaurya2002/shivammaurya2002/assets/<img width="1024" height="1024" alt="Github" src="https://github.com/user-attachments/assets/413d7710-5495-428a-a664-baaa328fe623" />
-)
+![Shivam Maurya Banner](https://github.com/shivammaurya2002/shivammaurya2002/assets/your-banner-image-path)
 
 # ✨ Welcome to My GitHub Profile
 
@@ -67,9 +66,11 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivammaurya2002&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shivammaurya2002&theme=great-gatsby&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammaurya2002&theme=great-gatsby&hide_border=false&layout=compact" />
+![](https://github-readme-stats.vercel.app/api?username=ShivamMaurya2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShivamMaurya2002&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMaurya2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
 
 ---
