@@ -68,10 +68,13 @@
 ---
 
 # 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamMaurya2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ShivamMaurya2002&theme=radical&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMaurya2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivammaurya2002&show_icons=true&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shivammaurya2002&theme=great-gatsby&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammaurya2002&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -87,7 +90,7 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| ![Recipe Finder](https://img.shields.io/badge/Recipe%20Finder-%23FF5733?style=for-the-badge) | A recipe app with smart search, filters, and cuisines | [Live](https://shivammaurya2002.github.io/recipe-finder/) |
+| ![Recipe Finder](https://img.shields.io/badge/Recipe%20Finder-%23FF5733?style=for-the-badge) | A recipe app with smart search, filters, and cuisines | [Live](https://shivammaurya2002.github.io/Recipe-Finder-App/) |
 | ![E-commerce Website](https://img.shields.io/badge/Ecommerce-%234CAF50.svg?style=for-the-badge) | Shopping website with cart and category support | [Live](https://shivammaurya2002.github.io/ecommerce/) |
 | ![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge) | My professional portfolio with animations & dark mode | [Live](https://shivammaurya2002.github.io/portfolio/) |
 | ![Landing Page](https://img.shields.io/badge/Landing--Page-%2300C4CC.svg?style=for-the-badge) | Service-focused responsive landing page | [Live](https://shivammaurya2002.github.io/landing-page/) |
