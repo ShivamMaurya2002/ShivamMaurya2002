@@ -21,13 +21,11 @@
     <td>
 
 🔭 **Currently Working On:**&nbsp;&nbsp;➡️ **Responsive Web Applications** using:
-&nbsp;&nbsp;![HTML](https://img.shields.io/badge/HTML-03A9F4?style=flat-square&logo=html5&logoColor=white)
-&nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS-2196F3?style=flat-square&logo=css3&logoColor=white)
-&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=flat-square&logo=javascript&logoColor=black)
-&nbsp;&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=flat-square&logo=github&logoColor=white)
-&nbsp;&nbsp;![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-&nbsp;&nbsp;![API Integration](https://img.shields.io/badge/API%20Integration-F44336?style=flat-square&logo=postman)
+&nbsp;![HTML](https://img.shields.io/badge/HTML-03A9F4?style=flat-square&logo=html5&logoColor=white)
+&nbsp;![CSS](https://img.shields.io/badge/CSS-2196F3?style=flat-square&logo=css3&logoColor=white)
+&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=flat-square&logo=javascript&logoColor=black)
+&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+&nbsp;![API Integration](https://img.shields.io/badge/API%20Integration-F44336?style=flat-square&logo=postman)
 
 👯 **Open to Collaborate On:**
 &nbsp;&nbsp;![Frontend Projects](https://img.shields.io/badge/Frontend%20Projects-00BCD4?style=flat-square)
@@ -84,7 +82,7 @@
 
 # 💻 Tech Stack:
 <p align="center">
-Frontend:</b><br/></br>
+<b>Frontend:</b><br/></br>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -113,14 +111,14 @@ Frontend:</b><br/></br>
 <p align="center">
 <b>Tools & Platforms:</b><br/></br>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Vercel-673AB7?style=for-the-badge&logo=vercel&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
