@@ -20,18 +20,18 @@
   <tr>
     <td>
 
-🔭 **Currently Working On:**&nbsp;&nbsp;➡️ **Responsive Web Applications** using:
-&nbsp;![HTML](https://img.shields.io/badge/HTML-03A9F4?style=flat-square&logo=html5&logoColor=white)
-&nbsp;![CSS](https://img.shields.io/badge/CSS-2196F3?style=flat-square&logo=css3&logoColor=white)
-&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=flat-square&logo=javascript&logoColor=black)
-&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-&nbsp;![API Integration](https://img.shields.io/badge/API%20Integration-F44336?style=flat-square&logo=postman)
+🔭 **Currently Working On:**&nbsp;➡️**Responsive Web Applications** using:
+![HTML](https://img.shields.io/badge/HTML-03A9F4?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2196F3?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![API Integration](https://img.shields.io/badge/API%20Integration-F44336?style=flat-square&logo=postman)
 
 👯 **Open to Collaborate On:**
-&nbsp;&nbsp;![Frontend Projects](https://img.shields.io/badge/Frontend%20Projects-00BCD4?style=flat-square)
-&nbsp;&nbsp;![Open Source](https://img.shields.io/badge/Open%20Source-4CAF50?style=flat-square)
-&nbsp;&nbsp;![UI/UX Ideas](https://img.shields.io/badge/UI%2FUX%20Ideas-E91E63?style=flat-square)
-&nbsp;&nbsp;![Creative Websites](https://img.shields.io/badge/Creative%20Websites-9C27B0?style=flat-square)
+&nbsp;![Frontend Projects](https://img.shields.io/badge/Frontend%20Projects-00BCD4?style=flat-square)
+&nbsp;![Open Source](https://img.shields.io/badge/Open%20Source-4CAF50?style=flat-square)
+&nbsp;![UI/UX Ideas](https://img.shields.io/badge/UI%2FUX%20Ideas-E91E63?style=flat-square)
+&nbsp;![Creative Websites](https://img.shields.io/badge/Creative%20Websites-9C27B0?style=flat-square)
 
 🌱 **Currently Learning:**
 &nbsp;&nbsp;![React.js](https://img.shields.io/badge/React.js-00C853?style=flat-square&logo=react&logoColor=white)
@@ -87,7 +87,7 @@
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/><br>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
