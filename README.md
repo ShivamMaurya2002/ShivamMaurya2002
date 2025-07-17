@@ -21,16 +21,16 @@
     <td>
 
 🔭 **Currently Working On:**&nbsp;➡️**Responsive Web Applications** using:
-&nbsp;![HTML](https://img.shields.io/badge/HTML-03A9F4?style=flat-square&logo=html5&logoColor=white)
-&nbsp;![CSS](https://img.shields.io/badge/CSS-2196F3?style=flat-square&logo=css3&logoColor=white)
-&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=flat-square&logo=javascript&logoColor=black)
-&nbsp;![API Integration](https://img.shields.io/badge/API%20Integration-F44336?style=flat-square&logo=postman)
+&nbsp;&nbsp;![HTML](https://img.shields.io/badge/HTML-03A9F4?style=flat-square&logo=html5&logoColor=white)
+&nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS-2196F3?style=flat-square&logo=css3&logoColor=white)
+&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=flat-square&logo=javascript&logoColor=black)
+&nbsp;&nbsp;![API Integration](https://img.shields.io/badge/API%20Integration-F44336?style=flat-square&logo=postman)
 
 👯 **Open to Collaborate On:**
-&nbsp;![Frontend Projects](https://img.shields.io/badge/Frontend%20Projects-00BCD4?style=flat-square)
-&nbsp;![Open Source](https://img.shields.io/badge/Open%20Source-4CAF50?style=flat-square)
-&nbsp;![UI/UX Ideas](https://img.shields.io/badge/UI%2FUX%20Ideas-E91E63?style=flat-square)
-&nbsp;![Creative Websites](https://img.shields.io/badge/Creative%20Websites-9C27B0?style=flat-square)
+&nbsp;&nbsp;![Frontend Projects](https://img.shields.io/badge/Frontend%20Projects-00BCD4?style=flat-square)
+&nbsp;&nbsp;![Open Source](https://img.shields.io/badge/Open%20Source-4CAF50?style=flat-square)
+&nbsp;&nbsp;![UI/UX Ideas](https://img.shields.io/badge/UI%2FUX%20Ideas-E91E63?style=flat-square)
+&nbsp;&nbsp;![Creative Websites](https://img.shields.io/badge/Creative%20Websites-9C27B0?style=flat-square)
 
 🌱 **Currently Learning:**
 &nbsp;&nbsp;![React.js](https://img.shields.io/badge/React.js-00C853?style=flat-square&logo=react&logoColor=white)
