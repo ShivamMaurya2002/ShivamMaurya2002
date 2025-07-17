@@ -57,7 +57,7 @@
 &nbsp;![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 🎯 **Fun Fact:**
-&nbsp;&nbsp;![Chess](https://img.shields.io/badge/I%20love%20playing%20Chess♟️%20%20when%20I’m%20not%20coding-673AB7?style=flat-square&logo=Chess&logoColor=white) &nbsp;&nbsp;![Creative Explorer](https://img.shields.io/badge/✨%20Exploring%20Creative%20%26%20Productive%20Ideas%20Daily-FF4081?style=flat-square&logo=target&logoColor=white)
+&nbsp;&nbsp;![Chess](https://img.shields.io/badge/I%20love%20playing%20Chess♟️%20when%20I’m%20not%20coding-673AB7?style=flat-square&logo=Chess&logoColor=white) &nbsp;&nbsp;![Creative Explorer](https://img.shields.io/badge/✨%20Exploring%20Creative%20%26%20Productive%20Ideas%20Daily-FF4081?style=flat-square&logo=target&logoColor=white)
 
   </td>
   </tr>
