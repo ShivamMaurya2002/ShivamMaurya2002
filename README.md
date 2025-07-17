@@ -90,14 +90,14 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| ![Recipe Finder](https://img.shields.io/badge/Recipe%20Finder-%23FF5733?style=for-the-badge) | A recipe app with smart search, filters, and cuisines | [Live](https://shivammaurya2002.github.io/Recipe-Finder-App/) |
+| ![Recipe Finder App](https://img.shields.io/badge/Recipe%20Finder-%23FF5733?style=for-the-badge) | A recipe app with smart search, filters, and cuisines | [Live](https://shivammaurya2002.github.io/Recipe-Finder-App/) |
 | ![E-commerce Website](https://img.shields.io/badge/Ecommerce-%234CAF50.svg?style=for-the-badge) | Shopping website with cart and category support | [Live](https://shivammaurya2002.github.io/ecommerce/) |
-| ![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge) | My professional portfolio with animations & dark mode | [Live](https://shivammaurya2002.github.io/portfolio/) |
-| ![Landing Page](https://img.shields.io/badge/Landing--Page-%2300C4CC.svg?style=for-the-badge) | Service-focused responsive landing page | [Live](https://shivammaurya2002.github.io/landing-page/) |
-| ![Weather App](https://img.shields.io/badge/Weather--App-%2361DAFB.svg?style=for-the-badge) | Real-time 5-day forecast weather app | [Live](https://shivammaurya2002.github.io/weather-app/) |
-| ![Focus App](https://img.shields.io/badge/Focus--on--Today-%23E4405F?style=for-the-badge) | Productivity app for managing daily focus tasks | [Live](https://shivammaurya2002.github.io/focus-on-today/) |
-| ![Hamburger Menu](https://img.shields.io/badge/Hamburger--Menu-%23FFB300.svg?style=for-the-badge) | Stylish hamburger menu for foodies app | [Live](https://shivammaurya2002.github.io/foodies/) |
-| ![Calculator App](https://img.shields.io/badge/Calculator-%234B0082.svg?style=for-the-badge) | Basic calculator built using JavaScript | [Live](https://shivammaurya2002.github.io/calculator/) |
+| ![Portfolio Website](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge) | My professional portfolio with animations & dark mode | [Live](https://shivammaurya2002.github.io/portfolio/) |
+| ![Landing Page](https://img.shields.io/badge/Landing--Page-%2300C4CC.svg?style=for-the-badge) | Service-focused responsive landing page | [Live](https://shivammaurya2002.github.io/Landing-Page/) |
+| ![Weather Report App](https://img.shields.io/badge/Weather--App-%2361DAFB.svg?style=for-the-badge) | Real-time 5-day forecast weather app | [Live](https://shivammaurya2002.github.io/Weather-Report-App/) |
+| ![Focus On Today App](https://img.shields.io/badge/Focus--on--Today-%23E4405F?style=for-the-badge) | Productivity app for managing daily focus tasks | [Live](https://shivammaurya2002.github.io/Focus-On-Today-App/) |
+| ![Foodies Hamburger Menu App](https://img.shields.io/badge/Hamburger--Menu-%23FFB300.svg?style=for-the-badge) | Stylish hamburger menu for foodies app | [Live](https://shivammaurya2002.github.io/Foodie-Hamburger-Website/) |
+| ![Calculator App](https://img.shields.io/badge/Calculator-%234B0082.svg?style=for-the-badge) | Basic calculator built using JavaScript | [Live](https://shivammaurya2002.github.io/Calculator-App/) |
 
 ---
 
