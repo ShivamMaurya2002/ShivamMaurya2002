@@ -147,20 +147,13 @@
 ## 🎓 Certifications
 
 <p align="center" style="font-size:40px">
-
-  <img src="https://img.shields.io/badge/JavaScript%20Algorithms%20&%20Data%20Structures-%2300C7B7?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="JavaScript Algorithms and Data Structures - FreeCodeCamp" height="50px"/>
-
-  <img src="https://img.shields.io/badge/Web%20Development%20-0072C6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Web Development by CodSoft" height="50px"/>
-
-  <img src="https://img.shields.io/badge/Basics%20of%20Python%20-%3776AB?style=for-the-badge&logo=infosys&logoColor=white" alt="Python by Infosys Springboard" height="50px"/>
-
-  <img src="https://img.shields.io/badge/Introduction%20to%20Machine%20Learning%20-%F7931E?style=for-the-badge&logo=infosys&logoColor=white" alt="ML by Infosys Springboard" height="50px"/>
-
-  <img src="https://img.shields.io/badge/Presentation%20Skills%20-%f4e542?style=for-the-badge&logo=infosys&logoColor=black" alt="Presentation by Infosys" height="50px"/>
-
-  <img src="https://img.shields.io/badge/Business%20Communication%20-0073C6?style=for-the-badge&logo=infosys&logoColor=white" alt="Business Communication by Infosys" height="50px"/>
-
-  <img src="https://img.shields.io/badge/Research%20Paper%20Publication%20-%2F80ED?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Research Paper - IJR" height="50px"/>
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript%20Algorithms%20&%20Data%20Structures-005662?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="JavaScript Algorithms and Data Structures - FreeCodeCamp" height="50px"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Web%20Development-003262?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Web Development by CodSoft" height="50px"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Basics%20of%20Python-1A237E?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python by Infosys Springboard" height="50px"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Introduction%20to%20Machine%20Learning-B53F10?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML by Infosys Springboard" height="50px"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Presentation%20Skills-6D4C41?style=for-the-badge&logo=slides&logoColor=white" alt="Presentation by Infosys" height="50px"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Business%20Communication-004D40?style=for-the-badge&logo=contactless-payment&logoColor=white" alt="Business Communication by Infosys" height="50px"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Research%20Paper%20Publication-311B92?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Research Paper - IJR" height="50px"/>
 
 </p>
 
@@ -194,10 +187,10 @@
   </tr>
 
   <tr>
-    <td><img src="https://img.shields.io/badge/Portfolio%20Website-%23121011.svg?style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/Portfolio%20Website-007BFF?style=for-the-badge&logo=web&logoColor=white" /></td>
     <td>My animated portfolio with theme toggle, projects, and skills</td>
     <td><a href="https://shivammaurya2002.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-%2300C853?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+       <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-%2300C853?style=for-the-badge&logo=firefox-browser&logoColor=white" />
     </a></td>
   </tr>
 
