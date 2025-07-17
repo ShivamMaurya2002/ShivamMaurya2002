@@ -21,11 +21,10 @@
     <td>
 
 🔭 **Currently Working On:**&nbsp;➡️**Responsive Web Applications** using:
-![HTML](https://img.shields.io/badge/HTML-03A9F4?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2196F3?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![API Integration](https://img.shields.io/badge/API%20Integration-F44336?style=flat-square&logo=postman)
+&nbsp;![HTML](https://img.shields.io/badge/HTML-03A9F4?style=flat-square&logo=html5&logoColor=white)
+&nbsp;![CSS](https://img.shields.io/badge/CSS-2196F3?style=flat-square&logo=css3&logoColor=white)
+&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=flat-square&logo=javascript&logoColor=black)
+&nbsp;![API Integration](https://img.shields.io/badge/API%20Integration-F44336?style=flat-square&logo=postman)
 
 👯 **Open to Collaborate On:**
 &nbsp;![Frontend Projects](https://img.shields.io/badge/Frontend%20Projects-00BCD4?style=flat-square)
