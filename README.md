@@ -189,7 +189,7 @@
   <tr>
     <td><img src="https://img.shields.io/badge/Portfolio%20Website-007BFF?style=for-the-badge&logo=web&logoColor=white" /></td>
     <td>My animated portfolio with theme toggle, projects, and skills</td>
-    <td><a href="https://shivammaurya2002.github.io/portfolio/">
+    <td><a href="https://shivammaurya2002-portfolio-website.netlify.app/">
        <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-%2300C853?style=for-the-badge&logo=firefox-browser&logoColor=white" />
     </a></td>
   </tr>
