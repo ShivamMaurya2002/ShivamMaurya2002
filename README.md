@@ -73,7 +73,7 @@
   &nbsp;<a href="https://facebook.com/Shivam%20Maurya"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
   &nbsp;<a href="https://instagram.com/shivam_sanatani_6392"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   &nbsp;<a href="https://linkedin.com/in/shivammaurya2002"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  &nbsp;<a href="https://youtube.com/@@official_shivam6992"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  &nbsp;<a href="https://youtube.com/@official_shivam6992"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
   &nbsp;<a href="mailto:smbangalore92@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
