@@ -148,7 +148,7 @@
 
 <p align="center" style="font-size:40px">
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript%20Algorithms%20&%20Data%20Structures-005662?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="JavaScript Algorithms and Data Structures - FreeCodeCamp" height="50px"/>
-  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Web%20Development-003262?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Web Development by CodSoft" height="50px"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Web%20Development-003262?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Web Development by CodSoft IT Services and Private limited" height="50px"/>
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Basics%20of%20Python-1A237E?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python by Infosys Springboard" height="50px"/>
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Introduction%20to%20Machine%20Learning-B53F10?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML by Infosys Springboard" height="50px"/>
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Presentation%20Skills-6D4C41?style=for-the-badge&logo=slides&logoColor=white" alt="Presentation by Infosys" height="50px"/>
