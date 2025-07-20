@@ -63,8 +63,6 @@
   </tr>
 </table>
 
-
-
 ---
 
 ## 🌐 Connect with Me:
@@ -121,7 +119,6 @@
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-
 ---
 
 # 📊 GitHub Stats:
@@ -142,8 +139,6 @@
 
 ---
 
----
-
 ## 🎓 Certifications
 
 <p align="center" style="font-size:40px">
@@ -156,8 +151,6 @@
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Research%20Paper%20Publication-311B92?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Research Paper - IJR" height="50px"/>
 
 </p>
-
-
 
 ---
 
