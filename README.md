@@ -160,7 +160,7 @@
   <a href="assets/Basics of Business Communication.jpg">
     <img src="https://img.shields.io/badge/Business%20Communication-004D40?style=for-the-badge&logo=contactless-payment&logoColor=white" height="50px"/>
   </a>
-  <a href="assets/Publication certificate .jpg">
+  <a href="assets/Publication certificate .jpg">
     <img src="https://img.shields.io/badge/Research%20Paper%20Publication-311B92?style=for-the-badge&logo=read-the-docs&logoColor=white" height="50px"/>
   </a>
 
