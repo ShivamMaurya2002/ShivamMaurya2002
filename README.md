@@ -142,39 +142,25 @@
 ## 🎓 Certifications
 
 <p align="center" style="font-size:40px">
-
-  <!-- JavaScript Algorithms & Data Structures Certificate -->
-  <a href="">
+  <a href="assets/JS Algorithms & Data Structure .png">
     <img src="https://img.shields.io/badge/JavaScript%20Algorithms%20&%20Data%20Structures-005662?style=for-the-badge&logo=freecodecamp&logoColor=white" height="50px"/>
   </a>
-
-  <!-- Web Development Certificate -->
-  <a href="https://your-image-link.com/web-development.jpg">
+  <a href="assets/Internship Certification.jpg">
     <img src="https://img.shields.io/badge/Web%20Development-003262?style=for-the-badge&logo=internet-explorer&logoColor=white" height="50px"/>
   </a>
-
-  <!-- Basics of Python Certificate -->
-  <a href="https://your-image-link.com/python-certificate.jpg">
+  <a href="assets/Basics of Python.jpg">
     <img src="https://img.shields.io/badge/Basics%20of%20Python-1A237E?style=for-the-badge&logo=python&logoColor=ffdd54" height="50px"/>
   </a>
-
-  <!-- Introduction to Machine Learning Certificate -->
-  <a href="https://your-image-link.com/ml-certificate.jpg">
+  <a href="assets/Introduction to Machine learning.jpg">
     <img src="https://img.shields.io/badge/Introduction%20to%20Machine%20Learning-B53F10?style=for-the-badge&logo=scikit-learn&logoColor=white" height="50px"/>
   </a>
-
-  <!-- Presentation Skills Certificate -->
-  <a href="https://your-image-link.com/presentation-certificate.jpg">
+  <a href="assets/presentation skills.jpg">
     <img src="https://img.shields.io/badge/Presentation%20Skills-6D4C41?style=for-the-badge&logo=slides&logoColor=white" height="50px"/>
   </a>
-
-  <!-- Business Communication Certificate -->
-  <a href="https://your-image-link.com/business-communication.jpg">
+  <a href="assets/Basics of Business Communication.jpg">
     <img src="https://img.shields.io/badge/Business%20Communication-004D40?style=for-the-badge&logo=contactless-payment&logoColor=white" height="50px"/>
   </a>
-
-  <!-- Research Paper Publication Certificate -->
-  <a href="https://your-image-link.com/research-paper.jpg">
+  <a href="assets/Publication certificate .jpg">
     <img src="https://img.shields.io/badge/Research%20Paper%20Publication-311B92?style=for-the-badge&logo=read-the-docs&logoColor=white" height="50px"/>
   </a>
 
