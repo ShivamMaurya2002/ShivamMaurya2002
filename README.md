@@ -142,7 +142,7 @@
 ## 🎓 Certifications
 
 <p align="center" style="font-size:40px">
-  <a href="https://github.com/ShivamMaurya2002/ShivamMaurya2002/blob/main/assets/JS%20Algorithms%20%26%20Data%20Structure%20.png">
+  <a href="assets/JS Algorithms & Data Structure .png">
     <img src="https://img.shields.io/badge/JavaScript%20Algorithms%20&%20Data%20Structures-005662?style=for-the-badge&logo=freecodecamp&logoColor=white" height="50px"/>
   </a>
   <a href="assets/Internship Certification.jpg">
