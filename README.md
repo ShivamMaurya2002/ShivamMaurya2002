@@ -144,7 +144,7 @@
 <p align="center" style="font-size:40px">
 
   <!-- JavaScript Algorithms & Data Structures Certificate -->
-  <a href="https://your-image-link.com/javascript-certificate.jpg" target="_blank">
+  <a href="assets/JS Algorithms & Data Structure .png" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript%20Algorithms%20&%20Data%20Structures-005662?style=for-the-badge&logo=freecodecamp&logoColor=white" height="50px"/>
   </a>
 
