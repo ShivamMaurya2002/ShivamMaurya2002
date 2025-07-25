@@ -8,6 +8,11 @@
 
 <h1 align="center"> 💫 About Me </h1>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ShivamMaurya2002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views of ShivamMaurya2002" />
+</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=00C7B7&center=true&vCenter=true&width=1200&height=70&lines=Welcome+to+my+GitHub+Profile!;I+am+Shivam+Maurya+%F0%9F%91%8B;Frontend+Developer;I+build+Interactive,+Animated,+Responsive+Websites;Skilled+in+HTML,+CSS,+JavaScript,+Bootstrap;Experienced+with+API+Integration+%F0%9F%94%8E;Lifelong+Learner+%F0%9F%93%9A+and+Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
@@ -267,13 +272,6 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=shivammaurya2002&limit=5&theme=gotham&combine_all_yearly_contributions=true" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivamMaurya2002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views of ShivamMaurya2002" />
-</p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
