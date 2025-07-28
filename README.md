@@ -57,7 +57,7 @@
 &nbsp;&nbsp;![Frontend](https://img.shields.io/badge/Frontend%20Development-03A9F4?style=flat-square)
 &nbsp;&nbsp;![HTML](https://img.shields.io/badge/HTML-03A9F4?style=flat-square&logo=html5&logoColor=white)
 &nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS-2196F3?style=flat-square&logo=css3&logoColor=white)
-&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript%20Concepts-FF9800?style=flat-square)
+&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-FF9800?style=flat-square)
 &nbsp;&nbsp;![Portfolio](https://img.shields.io/badge/Portfolio%20Building-9C27B0?style=flat-square)
 &nbsp;&nbsp;![UI/UX Design](https://img.shields.io/badge/UI/UX%20Design-F06292?style=flat-square)
 
@@ -129,6 +129,8 @@
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Vercel-673AB7?style=for-the-badge&logo=vercel&logoColor=white"/>
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub%20Pages-9C27B0?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
