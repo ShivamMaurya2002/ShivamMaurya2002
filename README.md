@@ -32,7 +32,7 @@
 &nbsp;&nbsp;![API Integration](https://img.shields.io/badge/API%20Integration-F44336?style=flat-square&logo=postman)
 &nbsp;&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 &nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-2196F3?style=flat-square&logo=github&logoColor=white)
 &nbsp;&nbsp;![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 &nbsp;&nbsp;![Responsive Design](https://img.shields.io/badge/Responsive%20Design-00C853?style=flat-square&logo=responsive&logoColor=white)
 
