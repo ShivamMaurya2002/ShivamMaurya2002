@@ -1,7 +1,6 @@
-
 <p align="center">
   <img src="https://github.com/shivammaurya2002/shivammaurya2002/blob/main/assets/Github.png?raw=true"  alt="Shivam Maurya GitHub Banner" 
-       style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px;" />
+  style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px;" />
 </p>
 
 ---
@@ -90,7 +89,8 @@
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
+
 <p align="center">
 <b>Frontend:</b><br/></br>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -137,6 +137,7 @@
 ---
 
 # 📊 GitHub Stats:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivammaurya2002&show_icons=true&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/>
   <br/><br/>
@@ -148,6 +149,7 @@
 ---
 
 ## 🏆 GitHub Trophies:
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shivammaurya2002&theme=algolia&no-frame=false&no-bg=false&margin-w=4" />
 </p>
@@ -269,6 +271,7 @@
 ---
 
 ## ✍️ Dev Quote:
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
@@ -285,4 +288,3 @@
 <p align="center">
   🎨 Built with creativity, code & chai by <b>Shivam Maurya</b>
 </p>
-
