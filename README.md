@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/shivammaurya2002/shivammaurya2002/blob/main/assets/Github.png?raw=true" 
        alt="Shivam Maurya GitHub Banner" 
-       style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px;" />
+       style="width: 100%; height: 350px; object-fit: cover; border-radius: 8px;" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 &nbsp;&nbsp;![HTML](https://img.shields.io/badge/HTML-03A9F4?style=flat-square&logo=html5&logoColor=white)
 &nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS-2196F3?style=flat-square&logo=css3&logoColor=white)
 &nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=flat-square&logo=javascript&logoColor=black)
-&nbsp;&nbsp;![API Integration](https://img.shields.io/badge/API%20Integration-F44336?style=flat-square&logo=postman)
+&nbsp;&nbsp;![API Integration](https://img.shields.io/badge/API%20Integration-F44336?style=flat-square&logo=postman)</br>
 &nbsp;&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 &nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 &nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-2196F3?style=flat-square&logo=github&logoColor=white)
