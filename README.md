@@ -29,7 +29,7 @@
 &nbsp;&nbsp;![HTML](https://img.shields.io/badge/HTML-03A9F4?style=flat-square&logo=html5&logoColor=white)
 &nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS-2196F3?style=flat-square&logo=css3&logoColor=white)
 &nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=flat-square&logo=javascript&logoColor=black)
-&nbsp;&nbsp;![API Integration](https://img.shields.io/badge/API%20Integration-F44336?style=flat-square&logo=postman)</br></br>
+&nbsp;&nbsp;![API Integration](https://img.shields.io/badge/API%20Integration-F44336?style=flat-square&logo=postman)
 &nbsp;&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 &nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 &nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-2196F3?style=flat-square&logo=github&logoColor=white)
