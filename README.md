@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/shivammaurya2002/shivammaurya2002/blob/main/assets/Github.png?raw=true"  alt="Shivam Maurya GitHub Banner" 
   style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px;" />
@@ -286,6 +287,4 @@
 
 ---
 
-<p align="center">
-  🎨 Built with creativity, code & chai by <b>Shivam Maurya</b>
-</p>
+<p align="center"> 🎨 Built with creativity, code & chai by <b>Shivam Maurya</b> </p>
