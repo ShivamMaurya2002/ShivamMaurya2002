@@ -121,11 +121,6 @@
 <b>Tools & Platforms:</b><br/></br>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Vercel-673AB7?style=for-the-badge&logo=vercel&logoColor=white"/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub%20Pages-9C27B0?style=for-the-badge&logo=github&logoColor=white"/>
