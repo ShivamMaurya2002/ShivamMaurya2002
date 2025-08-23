@@ -278,4 +278,4 @@
 
 ---
 
-<p align="center"> 🎨 Built with creativity, code & chai by <a herf = ""> <b>Shivam Maurya</b> </a> </p>
+<p align="center"> 🎨 Built with creativity, code & chai by <a herf = "https://github.com/ShivamMaurya2002"> <b>Shivam Maurya</b> </a> </p>
