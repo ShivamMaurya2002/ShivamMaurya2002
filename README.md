@@ -14,7 +14,7 @@
 <!-- Created with GPRM (https://gprm.itsvg.in) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=44&duration=2000&pause=1000&color=00C7B7&center=true&vCenter=true&width=1200&height=70&lines=Welcome+to+my+GitHub+Profile!;I+am+Shivam+Maurya+%F0%9F%91%8B;Frontend+Developer;I+build+Interactive,+Animated,+Responsive+Websites;Skilled+in+HTML,+CSS,+JavaScript,+Bootstrap;Experienced+with+API+Integration+%F0%9F%94%8E;Lifelong+Learner+%F0%9F%93%9A+and+Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=1000&color=00C7B7&center=true&vCenter=true&width=1200&height=70&lines=Welcome+to+my+GitHub+Profile!;I+am+Shivam+Maurya+%F0%9F%91%8B;Frontend+Developer;I+build+Interactive,+Animated,+Responsive+Websites;Skilled+in+HTML,+CSS,+JavaScript,+Bootstrap;Experienced+with+API+Integration+%F0%9F%94%8E;Lifelong+Learner+%F0%9F%93%9A+and+Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
