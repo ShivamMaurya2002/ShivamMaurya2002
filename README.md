@@ -196,7 +196,6 @@
     </a></td>
   </tr>
 
-
   <tr>
   <td><img src="https://img.shields.io/badge/AI%20Chatbot-%234A90E2?style=for-the-badge" /></td>
   <td>Real-time intelligent chatbot with API integration and dynamic memory</td>
