@@ -32,7 +32,7 @@
 &nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=flat-square&logo=javascript&logoColor=black)
 &nbsp;&nbsp;![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 &nbsp;&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)<br><br>
 &nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-2196F3?style=flat-square&logo=github&logoColor=white)
 &nbsp;&nbsp;![API Integration](https://img.shields.io/badge/API%20Integration-F44336?style=flat-square&logo=postman)
 &nbsp;&nbsp;![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
