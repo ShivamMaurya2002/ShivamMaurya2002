@@ -255,7 +255,7 @@
   </tr>
 
   <tr>
-    <td><img src="https://img.shields.io/badge/Foodies%20Hamburger%20Menu%20App-%23FFB300.svg?style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/Foodies%20Hamburger%20Menu-%23FFB300.svg?style=for-the-badge" /></td>
     <td>Stylish animated hamburger menu app for food-related websites</td>
     <td><a href="https://shivammaurya2002.github.io/Foodie-Hamburger-Website/">
       <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-%2300C853?style=for-the-badge&logo=firefox-browser&logoColor=white" />
