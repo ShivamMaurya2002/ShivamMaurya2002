@@ -189,6 +189,15 @@
   </tr>
 
   <tr>
+    <td><img src="https://img.shields.io/badge/EventSphere%20App-%23FF4081?style=for-the-badge" /></td>
+    <td>Interactive event management platform for browsing, creating, and registering for events</td>
+    <td><a href="https://shivammaurya2002.github.io/EventSphere-Frontend-App/">
+      <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-%2300C853?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+    </a></td>
+  </tr>
+
+
+  <tr>
   <td><img src="https://img.shields.io/badge/AI%20Chatbot-%234A90E2?style=for-the-badge" /></td>
   <td>Real-time intelligent chatbot with API integration and dynamic memory</td>
   <td><a href="https://shivammaurya2002.github.io/AI-Chatbot/">
