@@ -131,8 +131,15 @@
 
 ---
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shivammaurya2002&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/> </p>
+# 📊 GitHub Stats:
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivammaurya2002&show_icons=true&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/>
+  <br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shivammaurya2002&theme=great-gatsby&hide_border=false" alt="GitHub Streak" width="500" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammaurya2002&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="350" />
+</p>
 ---
 
 ## 🏆 GitHub Trophies:
