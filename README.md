@@ -145,8 +145,8 @@
 
 ## 🏆 GitHub Trophies:
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=shivammaurya2002&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivammaurya2002&show_icons=true&theme=algolia"/>
 </p>
 
 ---
