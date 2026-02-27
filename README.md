@@ -135,11 +135,8 @@
 
 ---
 
-## 📊 GitHub Dashboard
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamMaurya2002&show_icons=true&theme=algolia" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMaurya2002&layout=compact&theme=algolia" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shivammaurya2002&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/> 
 </p>
 
 ---
