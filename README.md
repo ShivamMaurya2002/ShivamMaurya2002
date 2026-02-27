@@ -143,10 +143,12 @@
 
 ---
 
-## 🏆 GitHub Stats (Compact)
+## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamMaurya2002&show_icons=true&theme=algolia&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamMaurya2002&show_icons=true&theme=algolia" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ShivamMaurya2002&theme=algolia" />
 </p>
 
 ---
