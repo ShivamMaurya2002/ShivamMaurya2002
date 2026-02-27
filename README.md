@@ -131,15 +131,18 @@
 
 ---
 
-# 📊 GitHub Dashboard
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivammaurya2002&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammaurya2002&layout=compact&theme=great-gatsby" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivammaurya2002&show_icons=true&theme=great-gatsby" width="420"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shivammaurya2002&theme=great-gatsby" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammaurya2002&layout=compact&theme=great-gatsby" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shivammaurya2002&theme=great-gatsby" width="450"/>
 </p>
 
 ---
