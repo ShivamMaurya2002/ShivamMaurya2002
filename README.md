@@ -143,12 +143,11 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamMaurya2002&show_icons=true&theme=algolia" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMaurya2002&layout=compact&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamMaurya2002&show_icons=true&theme=algolia" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMaurya2002&layout=compact&theme=algolia" width="48%" />
 </p>
 
 ---
